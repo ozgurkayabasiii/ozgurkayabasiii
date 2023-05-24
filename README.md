@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Redux with TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ozgurkayabasiii/](https://www.linkedin.com/in/ozgurkayabasiii/)
+[https://www.linkedin.com/in/ozgurkayabasiii/](https://www.linkedin.com/in/ozgurkayabasiii/)
 
 - 💬 Ask me about **HTML , CSS , Javascript , React**
 
