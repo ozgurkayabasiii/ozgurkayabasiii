@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React,Redux with TypeScript**
 
-[https://www.linkedin.com/in/ozgurkayabasiii/](https://www.linkedin.com/in/ozgurkayabasiii/)
-
 - 💬 Ask me about **HTML , CSS , Javascript , React**
 
 - 📫 How to reach me **ozgur.kayabasiii@gmail.com**
